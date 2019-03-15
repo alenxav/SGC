@@ -1,0 +1,14 @@
+citHeader("To cite SGC in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Population and quantitative genomic properties of the USDA soybean germplasm collection",
+  author       = personList(as.person("Alencar Xavier"),as.person("Rima Thapa"),as.person("William Muir"),as.person("Katy Rainey")),
+  journal      = "Plant Genetic Resources",
+  publisher    = "Cambridge",
+  volume       = "16",
+  number       = "6",
+  pages        = "513-523",
+  year         = "2018",
+  textVersion  = "Xavier et al. 2008. Population and quantitative genomic properties of the USDA soybean germplasm collection. Plant Genetic Resources 16(6):513-523."
+
+)
